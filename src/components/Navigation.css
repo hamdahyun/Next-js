@@ -1,0 +1,14 @@
+nav {
+	position: fixed;
+    top: 0;
+    width: 100%;
+    text-align: center;
+	background-color: #000;
+}
+
+nav a {
+	padding: 15px 10px;
+    display: inline-block;
+    text-decoration: none;
+	color: #fee500;
+}
